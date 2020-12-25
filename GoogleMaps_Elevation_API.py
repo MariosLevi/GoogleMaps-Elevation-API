@@ -1,7 +1,7 @@
 from pprint import pprint #pip install pprint
 import googlemaps #pip install googlemaps
 
-API_KEY = "AIzaSyAybh8hXbXTIvOaHglmZPbyvJrYJ1ujFUc"
+API_KEY = "YOUR KEY" 
 
 map_client = googlemaps.Client(API_KEY)
 
