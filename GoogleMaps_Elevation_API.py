@@ -3,7 +3,7 @@ import googlemaps #pip install googlemaps
 import math
 import ast
 
-API_KEY = "AIzaSyAybh8hXbXTIvOaHglmZPbyvJrYJ1ujFUc"
+API_KEY = "YOUR KEY"
 
 map_client = googlemaps.Client(API_KEY)
 
