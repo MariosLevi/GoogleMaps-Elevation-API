@@ -11,5 +11,5 @@ pprint(dir(map_client))
 location = 28.4723325,25.0608467
 
 
-response = map_client.elevation(location)
+response = map_client.elevation(location) #in meters
 pprint(response)
